@@ -1,0 +1,1 @@
+alert("Feature from submodule");
