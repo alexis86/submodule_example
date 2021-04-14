@@ -1,0 +1,4 @@
+[submodule "sub_lib"]
+	path = sub_lib
+	url = https://github.com/alexis86/submodule_example.git
+	branch = sub_lib
